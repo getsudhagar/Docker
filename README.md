@@ -20,18 +20,18 @@ docker network inspect bridge.
     docker build -t <targetimagename>  .   ( run from the directeroy where the dockerfile exist)
 	
 * Docker Run
-   docker run -p(src:dest) -d [container-d]  -p portmapping -d background
+   docker run -p(src:dest) -d [container-d]  -p portmapping -d  background
    
 * Docker container entry/see inside
-   # opening terminal in container
+   opening terminal in container
       docker exec -it [container-id] bash
-   # opening container stdin/stdout
+   opening container stdin/stdout
       docker logs [container-id]
 	  
 * Docker Remove all images and containers
-  # Delete all containers
+    Delete all containers
      docker rm $(docker ps -a -q)
-  # Delete all images
+    Delete all images
      docker rmi $(docker images -q)
 	 
 	 
