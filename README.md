@@ -2,11 +2,11 @@ Docker
 =======
 
 ### Install Docker for Rhel  Linux :
-![Docker for Rhel](https://docs.docker.com/engine/installation/linux/rhel)
+[Docker for Rhel](https://docs.docker.com/engine/installation/linux/rhel/)
 
 ### Some usefull links  
-![Docker jumpstart](http://odewahn.github.io/docker-jumpstart)
-![Docker files](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
+[Docker jumpstart](http://odewahn.github.io/docker-jumpstart/)
+[Docker files](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images/)
 
 ###Docker Commands for day to day survival
 
